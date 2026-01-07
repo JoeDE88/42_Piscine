@@ -6,12 +6,11 @@
 /*   By: codespace <codespace@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/07 19:13:49 by codespace         #+#    #+#             */
-/*   Updated: 2026/01/07 20:35:53 by codespace        ###   ########.fr       */
+/*   Updated: 2026/01/07 20:36:23 by codespace        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
-#include <bsd/string.h>
 
 unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size);
 
